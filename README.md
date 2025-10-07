@@ -1,37 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou Renan Rodrigues!
 
-<!--
-**Renan-Rodrigues-dev/Renan-Rodrigues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Sobre mim
 
-Here are some ideas to get you started:
+Sou **Analista de Redes** com experiência e paixão por automação e desenvolvimento. Adoro resolver problemas, otimizar processos e aprender novas tecnologias — sempre buscando unir conhecimento à prática:  
+**Poena par sapientia**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm learning more about github!!
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/3ea870c3ddfbe54333e58974b975935e69ccf6743cda38f48183da3bc9d66aa2/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d267765696768743d3630302673697a653d33302670617573653d313030302672616e646f6d3d66616c73652677696474683d363030266c696e65733d48656c6c6f2b546865726521213b53656a616d2b42656d2b2d2b56696e646f732861292b616f2b6d65752b50657266696c21" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com/?font=&amp;weight=600&amp;size=30&amp;pause=1000&amp;random=false&amp;width=600&amp;lines=Hello+There!!;Sejam+Bem+-+Vindos(a)+ao+meu+Perfil!" style="max-width: 100%;"></a></p>
-</article>
+---
 
-```python
-import Desenvolvedor from "Renan-Rodrigues-dev";
+## 🛠️ Principais Skills
 
-class SobreMim extends Desenvolvedor {
-  nome = "Renan Rodrigues";
-  area = "Analista de Redes N1";
-  trabalho = "TERA CORPORATION TELECOMUNICACOES EIRELI";
-  local = "Sou de Mogi das Cruzes";
-}
-```
+- **Python** (Automação, Scripts, APIs)
+- **Java** (Desenvolvimento de aplicações)
+- Redes de computadores (Configuração, monitoramento, troubleshooting)
+- Automação de processos
 
-| Contatos | URL
------------- | -------------
-<img src="https://img.shields.io/badge/LINKEDIN-00bef8?style=for-the-badge&logo=linkedin&logoColor=white" /> | <a href="https://www.linkedin.com/in/renan-rodrigues-51b854321/">Meu Linkedin!!!</a>
-<img src="https://img.shields.io/badge/INSTAGRAM-c82aff?style=for-the-badge&logo=instagram&logoColor=white" /> | <a href="https://www.instagram.com/renan_th5?igsh=MTU0eXRwb21uaXV6MQ%3D%3D&utm_source=qr">Meu Instagram!!</a>
+---
+
+## 🚀 Projeto em Destaque
+
+### [Automação com Python](#)
+Automatizo tarefas, otimizando fluxos de trabalho e tornando rotinas mais inteligentes com Python.  
 
 
+---
+
+## 🌐 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/renan-rodrigues-51b854321/)
+
+---
+
+## 🎯 Curiosidades & Hobbies
+
+- 🏀 Basquete
+- 🎸 Tocar guitarra
+- ♟️ Xadrez
+- 🧊 Cubo mágico
+- 🤔 Gosto de desafios e coisas complicadas!
+
+---
+
+> **GitHub Copilot:** Perfil gerado com a ajuda do Copilot.  
+> _Sempre buscando novos desafios!_
