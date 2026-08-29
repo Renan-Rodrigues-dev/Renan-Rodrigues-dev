@@ -10,7 +10,7 @@ Sou **Analista de Redes** com experiência e paixão por automação e desenvolv
 ## 🛠️ Principais Skills
 
 - **Python** (Automação, Scripts, APIs)
-- **Java** (Desenvolvimento de aplicações)
+- **Java** (Iniciante)
 - Redes de computadores (Configuração, monitoramento, troubleshooting)
 - Automação de processos
 
@@ -18,7 +18,7 @@ Sou **Analista de Redes** com experiência e paixão por automação e desenvolv
 
 ## 🚀 Projeto em Destaque
 
-### [Automação com Python](#)
+### [Automação com Python e N8N](#)
 Automatizo tarefas, otimizando fluxos de trabalho e tornando rotinas mais inteligentes com Python.  
 
 
